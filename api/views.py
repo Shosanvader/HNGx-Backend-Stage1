@@ -5,7 +5,7 @@ from django.shortcuts import render
 from django.utils import timezone
 from django.views.decorators.http import require_GET
 
-Github_File_Url = 'https://github.com/Shosanvader/HNGx-Stage1-Backend/blob/master/manage.py'
+Github_File_Url = 'https://github.com/Shosanvader/HNGx-Stage1-Backend/blob/master/api/views.py'
 Github_Repo_Url = 'https://github.com/Shosanvader/HNGx-Stage1-Backend'
 
 @require_GET
